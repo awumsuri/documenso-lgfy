@@ -1,3 +1,5 @@
+'use client';
+
 import { Trans, msg } from '@lingui/macro';
 import { useLingui } from '@lingui/react';
 

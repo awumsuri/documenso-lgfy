@@ -1,3 +1,5 @@
+'use client';
+
 import { useLingui } from '@lingui/react';
 import { Trans } from '@lingui/react/macro';
 import { OrganisationType, RecipientRole } from '@prisma/client';
