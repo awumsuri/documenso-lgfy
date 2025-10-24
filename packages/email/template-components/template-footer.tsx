@@ -38,9 +38,9 @@ export const TemplateFooter = ({ isDocument = true }: TemplateFooterProps) => {
         </Text>
       ) : (
         <Text className="my-8 text-sm text-slate-400">
-          Documenso, Inc.
+          Logistfy, LLC.
           <br />
-          2261 Market Street, #5211, San Francisco, CA 94114, USA
+          9121 W. Russell Rd., Las Vegas, NV. 89148
         </Text>
       )}
     </Section>
